@@ -4,10 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
-    cout << "Hello world!" << endl;
-    cout << "Hello world!" << endl;
-    cout << "Hello world!" << endl;
-    cout << "Hello world!" << endl;
+    cout << "welcome git !" << endl;
     return 0;
 }
